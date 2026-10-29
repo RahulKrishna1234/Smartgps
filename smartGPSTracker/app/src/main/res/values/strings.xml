@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart GPS Tracker</string>
+    <string name="channel_name">GPS Tracking Service</string>
+    <string name="channel_description">Persistent notification for tracking GPS trips in background</string>
+</resources>
